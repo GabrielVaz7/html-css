@@ -62,6 +62,9 @@ section {
     font-family: var(--fonte3);
     font-size: 5vh;
 }
+section > p{
+    margin-top: 32px;
+}
 
 section.normal{
     background-color: white;
